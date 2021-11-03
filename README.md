@@ -39,7 +39,7 @@ npm start
 
 After forking, cloning, and running the nessecary commands in the terminal open insomnia and go into "http://localhost:3001/api/" and fill out the the rest of the routes depending on what you want to do.
 
-![employee table working](./pictures/employeeTable.png)
+![employee table working](./pictures/insomnia_working.png)
 
 [Application in action](https://watch.screencastify.com/v/mA5DQN3NgWXYKAwGzjf7)
 
