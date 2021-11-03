@@ -41,14 +41,13 @@ After forking, cloning, and running the nessecary commands in the terminal open 
 
 ![employee table working](./pictures/employeeTable.png)
 
-[Application in action](https://watch.screencastify.com/v/U2yAVvpmEtoirxn1qJq1)
+[Application in action](https://watch.screencastify.com/v/mA5DQN3NgWXYKAwGzjf7)
 
 ## Contribution Guidelines
 
 I looked into other peoples code to try and help me figure out some of my bugs. Their profiles will be linked below:
 
 [Jason GitHub](https://github.com/jasonluxie)
-
 
 
 
